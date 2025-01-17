@@ -89,3 +89,31 @@ nav ul li{
   max-width: 580px;
   
 }
+.secondary-bg{
+  background-color: #FFF8F3;
+}
+
+
+/* main styles */
+
+main{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* about style */
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.about-items{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.item-description{
+  font-weight: 600px;
+}
